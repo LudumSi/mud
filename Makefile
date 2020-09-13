@@ -1,7 +1,7 @@
 
 CC = g++
 BIN = mud
-CFLAGS = -o $(BIN)	
+CFLAGS = -o $(BIN)
 
 mud: 
 
