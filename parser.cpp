@@ -1,6 +1,7 @@
 
 #include <iostream>
 #include "parser.hpp"
+#include "textutils.hpp"
 
 using namespace std;
 
